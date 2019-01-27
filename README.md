@@ -1,6 +1,6 @@
 # Baby Shark the Games
 This is my very first project/games that i ever created, which is required in CS50 pset0 assignment.
-Great thanks to Prof. David J Malan (@malan) who encouraged me to make this happen and to my lovely daughter who inspired me to build this particular project (Baby Shark :D)
+Great thanks to Prof. David J Malan (@malan) who encouraged me to let this happen and to my lovely daughter who inspired me to build this particular project (Baby Shark :D)
 
 ![Screenshot](https://github.com/nonkronk/bbs-thegames/raw/master/ss.gif)
 
