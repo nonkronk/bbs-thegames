@@ -5,7 +5,7 @@ Great thanks to Prof. David J Malan (@malan) who encouraged me to let this happe
 ![Screenshot](https://github.com/nonkronk/bbs-thegames/raw/master/ss.gif)
 
 ## Quick Start
-1. Clone this repository or Download as ZIP
+1. Clone this repository or Download as ZIP or Download Release and go to step 4
 2. Extract bbs-thegames and compress as ZIP
 3. Rename .zip file to .sb3
 4. Upload to http://scratch.mit.edu
