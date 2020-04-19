@@ -1,15 +1,8 @@
 # Baby Shark the Games
-This is my very first project/games that i ever created, which is required in CS50 pset0 assignment.
+This is my very first games that i ever created, which is required in CS50x Problem Set 0.
 Great thanks to Prof. David J Malan (@malan) who encouraged me to let this happen and to my lovely daughter who inspired me to build this particular project (Baby Shark :D)
 
 ![Screenshot](https://github.com/nonkronk/bbs-thegames/raw/master/ss.gif)
-
-## Quick Start
-1. Clone this repository or Download as ZIP or Download Release and go to step 4
-2. Extract bbs-thegames and compress as ZIP
-3. Rename .zip file to .sb3
-4. Upload to http://scratch.mit.edu
-5. Play it
 
 ## Gameplay Guidelines
 Original link :
@@ -26,5 +19,5 @@ Click the green flag & let's play ^.^
 - There's also a cheat (bug) featured in the game ? :p
 
 ## License
-MIT licensed. See [LICENSE](LICENSE) for detail
+MIT licensed. See [LICENSE](LICENSE) for details
 
