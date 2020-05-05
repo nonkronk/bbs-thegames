@@ -5,8 +5,9 @@ Great thanks to Prof. David J Malan (@malan) who encouraged me to let this happe
 ![Screenshot](https://github.com/nonkronk/bbs-thegames/raw/master/ss.gif)
 
 ## Gameplay Guidelines
-Original link :
+Link to play :
 https://scratch.mit.edu/projects/278557551
+
 - - - - -
 
 Click the green flag & let's play ^.^
