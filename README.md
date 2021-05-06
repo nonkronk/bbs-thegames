@@ -1,6 +1,6 @@
 # Baby Shark the Games
 It's the first game that I ever created, which was required in CS50x Problem Set 0.
-Great thanks to Prof. David J Malan (@malan), who encouraged me to let this happen, and to my lovely daughter, who inspired me to build this particular project (Baby Shark :D)
+Great thanks to Prof. David J Malan (@malan), who taught me the computational thinking approach, and to my lovely daughter, who inspired me to build this particular project (Baby Shark :D)
 
 ![Screenshot](https://github.com/nonkronk/bbs-thegames/raw/master/ss.gif)
 
